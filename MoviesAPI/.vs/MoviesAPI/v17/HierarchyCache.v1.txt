@@ -1,0 +1,212 @@
+﻿++Solution 'MoviesAPI' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:MoviesAPI.sln
+++MoviesAPI
+i:{00000000-0000-0000-0000-000000000000}:MoviesAPI
+++Connected Services 
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>373
+++Dependencies
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>372
+++Properties
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\properties\
+++wwwroot
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\
+++actors
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\actors\
+++0406b2a7-6a61-490a-b78e-b5a96359f653.jpg
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\actors\0406b2a7-6a61-490a-b78e-b5a96359f653.jpg
+++112d2c18-11c9-487e-a964-c7bd994d8faf.jpg
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\actors\112d2c18-11c9-487e-a964-c7bd994d8faf.jpg
+++1219f23c-9ba6-4c37-965e-ced1d5410bbd.jpg
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\actors\1219f23c-9ba6-4c37-965e-ced1d5410bbd.jpg
+++22481fd8-6cca-4a60-b0c9-60eed22daf3c.jfif
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\actors\22481fd8-6cca-4a60-b0c9-60eed22daf3c.jfif
+++513e1d6c-6e80-4b3a-887a-1403d1ea8ac0.jfif
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\actors\513e1d6c-6e80-4b3a-887a-1403d1ea8ac0.jfif
+++74130cf7-2ba8-47a5-b48e-959f107e7f12.jfif
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\actors\74130cf7-2ba8-47a5-b48e-959f107e7f12.jfif
+++a59ef183-5a66-4fb8-8409-c033bfd57e62.jfif
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\actors\a59ef183-5a66-4fb8-8409-c033bfd57e62.jfif
+++e595d1a9-d424-45aa-a126-70120d6ac20b.jpg
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\actors\e595d1a9-d424-45aa-a126-70120d6ac20b.jpg
+++f6609b2d-e988-4ca5-8095-ff037cc69a3e.jpg
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\actors\f6609b2d-e988-4ca5-8095-ff037cc69a3e.jpg
+++feccd1b3-979d-4bf7-abb1-cfd28c5ee265.jpg
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\actors\feccd1b3-979d-4bf7-abb1-cfd28c5ee265.jpg
+++movies
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\movies\
+++Controllers
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\controllers\
+++DTOs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\
+++Entities
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\entities\
+++Filters
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\filters\
+++Helpers
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\helpers\
+++AutoMapperProfiles.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\helpers\automapperprofiles.cs
+++AzureStorageService.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\helpers\azurestorageservice.cs
+++HttpContextExtensions.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\helpers\httpcontextextensions.cs
+++IFileStorageService.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\helpers\ifilestorageservice.cs
+++InAppStorageService.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\helpers\inappstorageservice.cs
+++IQueryableExtensions.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\helpers\iqueryableextensions.cs
+++TypeBinder.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\helpers\typebinder.cs
+++Migrations
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\migrations\
+++20220123175114_DB.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\migrations\20220123175114_db.cs
+++20220123175114_DB.Designer.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\migrations\20220123175114_db.designer.cs
+++20220123181632_Ceva.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\migrations\20220123181632_ceva.cs
+++20220123181632_Ceva.Designer.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\migrations\20220123181632_ceva.designer.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\migrations\applicationdbcontextmodelsnapshot.cs
+++Validations
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\validations\
+++FirstLetterUppercaseAttribute.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\validations\firstletteruppercaseattribute.cs
+++ApplicationDbContext.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\applicationdbcontext.cs
+++appsettings.json
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\appsettings.json
+++appsettings.Development.json
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\appsettings.development.json
+++Program.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\program.cs
+++Startup.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\startup.cs
+++No service dependencies discovered
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>374
+++Analyzers
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:analyzers
+++Frameworks
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:frameworks
+++Packages
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:packages
+++launchSettings.json
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\properties\launchsettings.json
+++0c25ad1e-7e55-4fd3-a8f0-1cd13db2d805.jpg
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\movies\0c25ad1e-7e55-4fd3-a8f0-1cd13db2d805.jpg
+++1d288880-54f3-458d-9615-21246ba31e03.jpg
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\movies\1d288880-54f3-458d-9615-21246ba31e03.jpg
+++1f59a604-06ac-4bec-ac07-a0b684149ed0.jpg
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\movies\1f59a604-06ac-4bec-ac07-a0b684149ed0.jpg
+++6538cc5f-697e-493a-9824-1e1d2995de2a.jpg
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\movies\6538cc5f-697e-493a-9824-1e1d2995de2a.jpg
+++7cca8676-6980-4106-a6f3-0e430b4987aa.jpg
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\movies\7cca8676-6980-4106-a6f3-0e430b4987aa.jpg
+++8aeb2b0c-5d07-4fc4-a17f-72c4d568f5a4.jpg
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\wwwroot\movies\8aeb2b0c-5d07-4fc4-a17f-72c4d568f5a4.jpg
+++AccountsController.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\controllers\accountscontroller.cs
+++ActorsController.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\controllers\actorscontroller.cs
+++GenresController.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\controllers\genrescontroller.cs
+++MoviesController.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\controllers\moviescontroller.cs
+++MovieTheatersController.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\controllers\movietheaterscontroller.cs
+++RatingsController.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\controllers\ratingscontroller.cs
+++ActorCreationDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\actorcreationdto.cs
+++ActorDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\actordto.cs
+++ActorsMovieDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\actorsmoviedto.cs
+++AuthenticationResponse.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\authenticationresponse.cs
+++FilterMoviesDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\filtermoviesdto.cs
+++GenreCreationDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\genrecreationdto.cs
+++GenreDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\genredto.cs
+++HomeDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\homedto.cs
+++MovieCreationDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\moviecreationdto.cs
+++MovieDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\moviedto.cs
+++MoviePostGetDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\moviepostgetdto.cs
+++MoviePutGetDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\movieputgetdto.cs
+++MoviesActorsCreationDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\moviesactorscreationdto.cs
+++MovieTheaterCreationDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\movietheatercreationdto.cs
+++MovieTheaterDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\movietheaterdto.cs
+++PaginationDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\paginationdto.cs
+++RatingDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\ratingdto.cs
+++UserCredentials.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\usercredentials.cs
+++UserDTO.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\dtos\userdto.cs
+++Actor.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\entities\actor.cs
+++Genre.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\entities\genre.cs
+++Movie.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\entities\movie.cs
+++MoviesActors.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\entities\moviesactors.cs
+++MoviesGenres.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\entities\moviesgenres.cs
+++MovieTheater.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\entities\movietheater.cs
+++MovieTheatersMovies.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\entities\movietheatersmovies.cs
+++Rating.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\entities\rating.cs
+++MyExceptionFilter.cs
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\filters\myexceptionfilter.cs
+++Microsoft.AspNetCore.Analyzers
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:c:\users\flavius.solomon\desktop\proiectasp\new folder\moviesapi\moviesapi\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.0)
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>387
+++Azure.Storage.Blobs (12.8.0)
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>392
+++Microsoft.AspNetCore.Authentication.JwtBearer (5.0.2)
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>393
+++Microsoft.AspNetCore.Authentication.OpenIdConnect (5.0.2)
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>390
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.2)
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>391
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.2)
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>386
+++Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite (5.0.2)
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>385
+++Microsoft.EntityFrameworkCore.Tools (5.0.2)
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>394
+++Newtonsoft.Json (12.0.3)
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>389
+++Swashbuckle.AspNetCore (5.6.3)
+i:{90aa1b59-1332-4306-8cae-90fa07ba832a}:>388
